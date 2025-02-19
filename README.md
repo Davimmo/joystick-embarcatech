@@ -1,4 +1,5 @@
 # BitDogLab Raspberry Pi Pico W Project
+# Vídeo do projeto https://youtu.be/MSnW2AVbOuY
 
 ### Autor: Davi Bezerra Cavalcanti
 
